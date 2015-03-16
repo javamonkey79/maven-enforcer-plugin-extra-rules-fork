@@ -1,0 +1,1 @@
+This for includes the original project and adds the following property: 'findTransitiveDuplicates' to allow the 'BanDuplicateClasses' rule to search transitively.
